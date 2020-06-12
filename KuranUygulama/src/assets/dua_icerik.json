@@ -1,0 +1,93 @@
+{
+    "duas": [{
+            "id": "1",
+            "name": "Kunut Duası 1",
+            "arap": "Allâhümme innâ nesteînüke ve nestağfirüke ve nestehdîke. Ve nü'minü bike ve netûbü ileyke.Ve netevekkelü aleyke ve nüsnî aleykel-hayra küllehû neşkürüke ve lâ nekfürük ve nahleu ve netrükü men yefcürük.",
+            "turk": "Allahım! Senden yardım isteriz, günahlarımızı bağışlamanı isteriz, razı olduğun şeylere hidayet etmeni isteriz. Sana inanırız, sana tevbe ederiz. Sana güveniriz. Bize verdiğin bütün nimetleri bilerek seni hayır ile överiz. Sana şükrederiz. Hiçbir nimetini inkar etmez ve onları başkasından bilmeyiz. Nimetlerini inkar eden ve sana karşı geleni bırakırız."
+        },
+        {
+            "id": "2",
+            "name": "Kunut Duası 2",
+            "arap": "Allâhumme iyyâke na'budu ve leke nusalli ve nescudu ve ileyke nes'a ve nahfidu nercû rahmeteke ve nahşâ azâbeke inne azâbeke bilkuffâri mulhiıg",
+            "turk": "Allahım! Biz yalnız sana kulluk ederiz. Namazı yalnız senin için kılarız, ancak sana secde ederiz. Yalnız sana koşar ve sana yaklaştıracak şeyleri kazanmaya çalışırız. İbadetlerini sevinçle yaparız. Rahmetinin devamını ve çoğalmasını dileriz. Azabından korkarız, şüphesiz senin azabın kafirlere ve inançsızlara ulaşır."
+        },
+        {
+            "id": "3",
+            "name": "Allahümme Salli Duası",
+            "arap": "Allâhümme salli alâ Muhammedin ve alâ âli Muhammed. Kemâ salleyte alâ İbrahime ve alâ âli İbrahim. İnneke hamidün mecîd.",
+            "turk": "Allah'ım! Muhammed'e ve Muhammed'in ümmetine rahmet eyle; şerefini yücelt. İbrahim'e ve İbrahim'in ümmetine rahmet ettiğin gibi. Şüphesiz övülmeye layık yalnız sensin, şan ve şeref sahibi de sensin."
+        },
+        {
+            "id": "4",
+            "name": "Allahümme Barik Duası",
+            "arap": "Allâhümme bârik alâ Muhammedin ve alâ âli Muhammed. Kemâ bârekte alâ İbrahime ve alâ âli İbrahim. İnneke hamidün mecîd.",
+            "turk": "Ey Allah'ım! İbrâhîm'e Aleyhisselâm ve âline bereketler ihsan ettiğin gibi, (Efendimiz) Muhammed'e (Sallallâhu Aleyhi ve Sellem) ve âline de bereketler ihsan eyle. Muhakkak Sen hamîd (övülen) ve mecîd'sin (şanı büyük)."
+        },
+        {
+            "id": "5",
+            "name": "Ettehiyyatü Duası",
+            "arap": "Ettehiyyâtu lillâhi vessalevâtu vettayibât. Esselâmu aleyke eyyuhen-Nebiyyu ve rahmetullahi ve berakâtuhu. Esselâmu aleynâ ve alâ ibâdillâhis-Sâlihîn. Eşhedu en lâ ilâhe illallâh ve eşhedu enne Muhammeden abduhû ve Rasuluh.",
+            "turk": "Bütün duâlar, senâlar, bedenî ve mâlî ibadetler Allah Teâlâ’ya mahsustur. Ey Peygamber! Sana selâm olsun, Allah’ın rahmeti ve bereketi üzerine olsun. (Ey Rabb’imiz)! Selâm bize ve Allah’ın sâlih kullarının üzerine olsun. Şahitlik ederim ki, Allah'tan başka ilah yoktur. Yine şahitlik ederim ki, Muhammed, O'nun kulu ve Peygamberidir."
+        },
+        {
+            "id": "6",
+            "name": "Rabbena Atina Duası",
+            "arap": "Rabbenâ âtinâ fi’d-dünyâ haseneten ve fi’lâhirati haseneten. Ve kınâ ‘azâbe’n-nâr",
+            "turk": "Allah’ım! Bize dünyada iyilik, güzellik ve nimet ver, ahirette de iyilik, güzellik ve nimet ver. Bizi ateş azabından koru"
+        },
+        {
+            "id": "7",
+            "name": "Rabbenağfirli Duası",
+            "arap": "Rabbena’ğfirlî ve li vâlideyye ve lil mu’minîne yevme yekûmu’l-hisâb.",
+            "turk": "Rabbimiz! Beni, anamı, babamı ve bütün mü’minleri hesap gününde (herkesin sorguya çekileceği günde) bağışla"
+        },
+        {
+            "id": "8",
+            "name": "Sübhaneke Duası",
+            "arap": "Sübhânekellâhümme ve bi hamdik ve tebârekesmük ve teâlâ ceddük (ve celle senâük *) ve lâ ilâhe ğayrük.",
+            "turk": "Allah'ım! Sen eksik sıfatlardan pak ve uzaksın. Seni daima böyle tenzih eder ve överim. Senin adın mübarektir. Varlığın her şeyden üstündür. Senden başka ilah yoktur."
+        },
+        {
+            "id": "9",
+            "name": "Amel ve İhsan Duası",
+            "arap": "Allahümme innî es’elüke rahmeten min indike tehdi bihâ kalbi ve tecmau bihâ emri ve telümmü bihâ şa’sî ve tuslihu bihâ gâibî ve terfeu bihâ şâhidî ve tüzekki bihâ amelî ve tülhimünî bihâ rüşdî ve terüddü bihâ halfetî ve ta’sımunî bihâ min külli sûin.Allahümme e'dınî îmânen ve yakınen leyse beğdehu küfrun ve rameten enelü bihe şerafe kerametike fi'ddünya vel âhirah",
+            "turk": "Allâh’ım! Sen’den, katından vereceğin öyle bir rahmet istiyorum ki, onunla kalbime hidâyet, işlerime nizâm, dağınıklığıma tertip, içime kâmil îman, dışıma amel-i sâlih, amellerime temizlik ve ihlâs ver, rızâna uygun istikâmeti ilhâm et, ülfet edeceğim dostumu lûtfet ve beni her türlü kötülüklerden koru! Allâh’ım, bana öyle bir îman, öyle bir yakîn ver ki, artık bir daha küfür (ihtimâli) kalmasın. Öyle bir rahmet ver ki, onunla, dünya ve âhirette Sen’in nazarında kıymetli olan bir mertebeye ulaşayım."
+        },
+        {
+            "id": "10",
+            "name": "Ezan Duası",
+            "arap": "Allahumme Rabbe hezihi’d-da’veti’t-tâmme. Vesselatil kâimeti âti Muhammedenil vesilete vel fazîlete vebashu makâmen Mahmudenillezi veadteh.",
+            "turk": "Ey bu eksiksiz dâvetin ve kılınan namazın Rabbi! Hazret-i Muhammed -aleyhissalâtü vesselâm-’a Vesîle’yi ve fazîleti ver. O’nu va’dettiğin Makâm-ı Mahmûd’a ulaştır!"
+        },
+        {
+            "id": "11",
+            "name": "Af ve Afiyet Duası",
+            "arap": "Allahummağfirli verhamni vehdini ve afıni verzukni",
+            "turk": "Allahım, beni bağışla, bana merhamet et, rızânı kazandıracak işler yaptır, bana âfiyet ve hayırlı rızık ver."
+        },
+        {
+            "id": "12",
+            "name": "Nefs ve Şeytana Karşı Dua",
+            "arap": "Allahümme fatire’s-semavati ve’l-ardı ali-me’l-ğaybi ve’ş-şehadeti, rabbe külli şey’in ve melikehu. Eşhedüan la ilahe illa ente. Euzü bike min şerri nefsi ve min şerri ‘şeytani ve şerikihi.",
+            "turk": "Gökleri ve yeri, görünen ve görünmeyen alemleri yaratan Allah’ım! Ey her şeyin Rabbi ve sahibi! Senden başka ilah bulunmadığına şehadet ederim. Nefsimin şerrinden, şeytanın ve ortaklarının şerrinden"
+        },
+        {
+            "id": "13",
+            "name": "Rabbi Yessir Duâsı",
+            "arap": "Rabbi yessir velâ tuassir Rabbi temmim bi’l-hayr.",
+            "turk": "Rabbim! İşlerimi kolaylaştır, zorlaştırma, Rabbim işlerimi hayırla sonuçlandır. Amin!"
+        },
+        {
+            "id": "14",
+            "name": "Yemek Duası",
+            "arap": "Elhamdülillahillezi et amena ve sekana ve cealena minel müslimin. Allahümmağfir verham vehfaz sahibet taami vel akiline ve limen sea fihi velicemiıl mü’minine vel mü’minat. Allahümme nevvir kulubena bi envari mehabbetike ve zikrike ya zel celali vel ikram. Allahümme ahyine hayaten tayyibeten bis-sıhhati ves-selameti vel-afiyeh. fiddini veddünya vel ahirah. İnneke ala külli şeyin Kadir. Allahümme inna nes’elüke temamen nığmeti ve devamel afiyeh ve husnel hatimeh. Allahümme zid ve la tenkus bi hurmetin nebiyyi sallallahü aleyhi vesellem. Ve bi hurmetil fatiha.",
+            "turk": "Bizi yediren, içiren ve Müslümanlardan kılan Allah’a hamdolsun. Allah’ım! Yemek sâhibini, yiyenleri, sofrraya emeği geçenleri, bütün mü’min erkek ve kadınları mağfiret et ve onlara rahmet eyle! Allah’ım! Kalblerimizi muhabbetinin ve zikrinin nurlârıyla nurlandır, ey celâl ve ikrâm sâhibi Allah’ım! Allah’ım! Din husûsunda, dünyada ve âhirrette sıhhat, selâmet ve âfiyet üzere güzel bir hayât yaşamayı lutfeyle! Şüphesiz Sen her şeye kâdirsin. Allah’ım! Sen’den nîmetin tamâmını (İsllâm üzere ölüp cennete girmeyi), âfiyetin devvâmını ve hüsn-i hâtime ile (güzel bir hâl üzerre) vefât etmeyi isteriz. Allah’ım! Nebiyy-i Ekrem -sallallahu aleyhhi ve sellem- ve Fâtiha-i Şerîfe hürmetine nîmmetlerini artır, noksanlaştırma!”"
+        },
+        {
+            "id": "15",
+            "name": "Hz. Peygamberin Duası",
+            "arap": "Allahümme inneke afüvvün kerîmün tuhibbül afve fa'fü anni.",
+            "turk": "Allah’ım Sen affetmeyi seviyorsun, Sen çok affedicisin, beni de af buyur."
+        }
+    ]
+}
